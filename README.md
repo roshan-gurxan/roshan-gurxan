@@ -1,4 +1,4 @@
-### Hi, I'm ROshan!
+### Hi, I'm Roshan!
 
 <!--
 **roshan-gurxan/roshan-gurxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
