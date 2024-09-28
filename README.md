@@ -34,19 +34,3 @@ Welcome to my GitHub profile! I am a passionate software engineer with a strong 
 
 ---
 
-## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-thapa-maagar)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/roshan.thapa.maagar)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/roshan.thapa.maagar)
-
----
-
-## 📈 GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan-thapa-maagar&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-thapa-maagar&layout=compact&theme=radical)](https://github.com/roshan-thapa-maagar)
-
----
-
-### 🌟 "Learning is a journey, not a destination."
-
